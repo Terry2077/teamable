@@ -1,5 +1,5 @@
 # teamable
-Application for managing employee user profiles
+Application for managing employee user profiles.
 
 ### To run the tests execute
 
